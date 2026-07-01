@@ -10,3 +10,6 @@ Johnatan Sagñay
 - Git
 - GitHub
 - GitLab
+
+## Nota
+Esta línea fue agregada desde la rama "mejoras" para practicar el flujo de trabajo con ramas y merge en Git.
